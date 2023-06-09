@@ -1,0 +1,19 @@
+{
+    "name": "mayam/php-machine-learning",
+    "description": "Machine learning algorithms with PHP",
+    "type": "project",
+    "require": {
+        "php-ai/php-ml": "^0.10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mayam\\PhpMachineLearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayara-morais",
+            "email": "57415644+mayara-morais@users.noreply.github.com"
+        }
+    ]
+}
